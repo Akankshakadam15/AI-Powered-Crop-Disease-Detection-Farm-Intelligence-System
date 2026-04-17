@@ -3,7 +3,9 @@
 
 > Detect plant diseases instantly, get treatment plans, forecast disease outbreaks, and manage your farm smarter — all powered by deep learning.
 
----
+
+## 🌐 Live Demo
+🔗 [https://your-app-name.streamlit.app](https://akanksha-15smartagriguard.streamlit.app/)
 
 ## 📊 Model Performance
 
