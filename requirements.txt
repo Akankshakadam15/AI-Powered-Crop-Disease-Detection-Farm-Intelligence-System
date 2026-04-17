@@ -1,27 +1,16 @@
-# Core Deep Learning
+
 torch>=2.2.0
 torchvision>=0.17.0
 timm>=0.9.0
-
-# Web App
 streamlit>=1.28.0
-
-# Image Processing
 Pillow>=9.0.0
-opencv-python>=4.8.0
-
-# Data & Math
 numpy>=1.24.0
-matplotlib>=3.7.0
-
-# HTTP / Weather API
-requests>=2.31.0
-
-# Environment Variables
-python-dotenv>=1.0.0
-
-# Training only (train.py / check_accuracy.py)
 pandas>=2.0.0
+matplotlib>=3.7.0
 scikit-learn>=1.3.0
 tqdm>=4.65.0
 datasets>=2.14.0
+python-dotenv>=1.0.0
+opencv-python>=4.8.0
+requests>=2.31.0
+```
