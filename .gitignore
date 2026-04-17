@@ -1,0 +1,77 @@
+# ============ Python ============
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+
+# ============ Virtual Environment ============
+hvenv/
+venv/
+env/
+.venv/
+ENV/
+
+# ============ Model Files (too large for Git) ============
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.pkl
+*.pickle
+
+# ============ Dataset / Data Folder ============
+data/
+datasets/
+*.csv
+*.json
+*.xml
+
+# ============ Streamlit ============
+.streamlit/secrets.toml
+
+# ============ API Keys / Secrets ============
+.env
+.env.local
+secrets.toml
+config.yaml
+api_keys.txt
+
+# ============ OS Files ============
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============ IDE / Editor ============
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ============ Jupyter Notebooks ============
+.ipynb_checkpoints/
+*.ipynb
+
+# ============ Logs & Temp Files ============
+*.log
+*.tmp
+*.temp
+logs/
+temp/
+tmp/
+
+# ============ Build / Dist ============
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ============ Test Cache ============
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ============ Image Uploads (user data) ============
+uploads/
+user_uploads/
