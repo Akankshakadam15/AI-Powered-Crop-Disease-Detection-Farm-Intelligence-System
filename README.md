@@ -80,7 +80,7 @@ with your free key from [openweathermap.org](https://openweathermap.org/api).
 ```bash
 streamlit run app.py
 ```
-Open your browser at: **http://localhost:8501**
+Open your browser at: **http://localhost:8503/**
 
 ### 7. Terminal Prediction (Optional)
 ```bash
