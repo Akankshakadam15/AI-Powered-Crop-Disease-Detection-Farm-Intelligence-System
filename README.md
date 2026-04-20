@@ -5,7 +5,7 @@
 
 
 ## 🌐 Live Demo
-🔗 [https://your-app-name.streamlit.app](https://akanksha-15smartagriguard.streamlit.app/)
+https://akanksha-15smartagriguard.streamlit.app/
 
 
 ## 📊 Model Performance
