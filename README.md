@@ -203,7 +203,7 @@ plant disease detection/
 
 ## 🧠 Model Training (Google Colab)
 
-1. Open [Google Colab](https://colab.research.google.com/)
+1. Open [Google Colab]
 2. Enable GPU: `Runtime → Change runtime type → T4 GPU`
 3. Upload `train.py` or paste training code
 4. Train on the PlantVillage dataset
